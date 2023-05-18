@@ -20,3 +20,6 @@ const residents = [
         relatives: ['Jane Doe', 'James Doe'],
     },
 ];
+
+
+module.exports = residents;
